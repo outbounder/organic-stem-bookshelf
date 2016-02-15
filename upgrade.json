@@ -1,0 +1,12 @@
+{
+  "name": "server-bookshelf",
+  "version": "0.1.0",
+  "main": "core",
+  "dependencies": {
+    "core": "0.1.0"
+  },
+  "peerUpgrades": {
+    "devtools-deploy": "peerUpgrades/deploy",
+    "devtools-client": "peerUpgrades/client"
+  }
+}

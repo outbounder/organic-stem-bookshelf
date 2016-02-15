@@ -1,0 +1,9 @@
+{
+  "plasma": {
+    "bookshelf": {
+      "source": "./server/plasma/bookshelf",
+      "models": "./server/models",
+      "database": "@server.database"
+    }
+  }
+}

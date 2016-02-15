@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "angelabilities-exec": "0.1.0",
+    "knex": "0.8.x",
+    "pg": "4.4.4",
+    "bookshelf": "0.9.1",
+    "string-template": "1.0.0",
+    "plural": "0.2.0"
+  }
+}

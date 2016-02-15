@@ -1,0 +1,5 @@
+{
+  "dbmigrate": "cd {cwd} && {sourceNode} && {runAngel} db migrate",
+  "dbrollback": "cd {cwd} && {sourceNode} && {runAngel} db rollback",
+  "upgrade": "{pull} && {dbmigrate} && {restart}"
+}

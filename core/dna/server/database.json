@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "name": "{{{dev dbname}}}",
+  "auth": {
+    "user": "@secrets.db.user",
+    "pass": "@secrets.db.pass"
+  }
+}
